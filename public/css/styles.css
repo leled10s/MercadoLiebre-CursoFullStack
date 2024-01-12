@@ -60,6 +60,14 @@ header{
     opacity: 0.5;
 }
 
+#busqueda{
+    border: none;
+}
+
+#busqueda:enabled{
+    border: none;
+}
+
 #lupa{
     display: flex;
     justify-content: center;
